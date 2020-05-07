@@ -12,7 +12,7 @@ $ source .venv/bin/activate
 
 ## Run
 
-Make sure to activate the virtual environment wirth `source .venv/bin/activate`.
+Make sure to activate the virtual environment with `source .venv/bin/activate`.
 
 ```
 python -m security_camera
